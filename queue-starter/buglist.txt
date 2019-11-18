@@ -1,0 +1,4 @@
+Bug List:
+-Function peekFront() fails to return front of Queue when  size of Queue is greater than 1.
+-Function peekFront() fails to maintain the Queue after function is called.  
+-Destructor ~Queue() does not destroy all items in queue
